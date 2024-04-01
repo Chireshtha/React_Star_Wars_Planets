@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_Star_Wars_Planets/static/css/main.edbdfb61.css",
+    "main.js": "/React_Star_Wars_Planets/static/js/main.b962e582.js",
+    "static/js/453.98206f0e.chunk.js": "/React_Star_Wars_Planets/static/js/453.98206f0e.chunk.js",
+    "static/media/Milkeyway.gif": "/React_Star_Wars_Planets/static/media/Milkeyway.af46bccbcf445af49ad1.gif",
+    "index.html": "/React_Star_Wars_Planets/index.html",
+    "main.edbdfb61.css.map": "/React_Star_Wars_Planets/static/css/main.edbdfb61.css.map",
+    "main.b962e582.js.map": "/React_Star_Wars_Planets/static/js/main.b962e582.js.map",
+    "453.98206f0e.chunk.js.map": "/React_Star_Wars_Planets/static/js/453.98206f0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edbdfb61.css",
+    "static/js/main.b962e582.js"
+  ]
+}
