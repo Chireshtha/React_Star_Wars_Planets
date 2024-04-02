@@ -28,6 +28,6 @@ This project fetches data from the Star Wars API (SWAPI) to display information 
 
 ## Deployment Url
 
-You can view the project visual
+**You can view the project visual**
 
 git deployment link <[repository-url]( https://chireshtha.github.io/React_Star_Wars_Planets/ )>  
