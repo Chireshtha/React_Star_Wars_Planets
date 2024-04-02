@@ -12,7 +12,7 @@ Welcome to Star Wars Planets! This application allows you to explore information
 
 This project fetches data from the Star Wars API (SWAPI) to display information about various planets, including climate, population, terrain, and residents.
 
-## Features
+## Features 
 
 - View a list of Star Wars planets with key details.
 - Expand details to see information about residents on each planet.
